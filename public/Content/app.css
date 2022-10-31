@@ -1,0 +1,69 @@
+.display-1 {
+    text-align: center;
+}
+.display-5 {
+    text-align: center;
+}
+
+/* Project styling */
+.column {
+    float: left;
+    width: 50%;
+
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.proj_column_content {
+    background-color: lightgray;
+    margin: 10px;
+    text-align: center;
+}
+
+.showcase {
+    padding: 20px;
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+}
+
+/* About Me Styling */
+.photo {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.video {
+    text-align: center ;
+    padding-bottom: 50px;
+}
+
+.paddingtext {
+    text-align: center;
+    margin: 20px;
+    background-color: lightgray;
+    
+}
+
+/* About Me Styling */
+.emailform {
+    size: 50%;
+    text-align: center;
+}
+
+.subject {
+    size: 1000px;
+}
+
+.submitbutton {
+    text-align: center;
+}
